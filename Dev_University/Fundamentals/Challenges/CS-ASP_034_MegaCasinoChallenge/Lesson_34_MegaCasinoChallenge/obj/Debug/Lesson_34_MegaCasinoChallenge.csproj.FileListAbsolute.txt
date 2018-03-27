@@ -1,0 +1,9 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\bin\Lesson_34_MegaCasinoChallenge.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\bin\Lesson_34_MegaCasinoChallenge.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\bin\Lesson_34_MegaCasinoChallenge.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\obj\Debug\Lesson_34_MegaCasinoChallenge.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\obj\Debug\Lesson_34_MegaCasinoChallenge.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\obj\Debug\Lesson_34_MegaCasinoChallenge.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson_34_MegaCasinoChallenge\Lesson_34_MegaCasinoChallenge\obj\Debug\Lesson_34_MegaCasinoChallenge.pdb

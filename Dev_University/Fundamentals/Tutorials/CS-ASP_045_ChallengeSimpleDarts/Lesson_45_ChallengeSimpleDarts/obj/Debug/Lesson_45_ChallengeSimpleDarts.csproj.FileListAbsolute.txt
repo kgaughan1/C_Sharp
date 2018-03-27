@@ -1,0 +1,9 @@
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\obj\Debug\Lesson_45_ChallengeSimpleDarts.csprojResolveAssemblyReference.cache
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\obj\Debug\Lesson_45_ChallengeSimpleDarts.csproj.CoreCompileInputs.cache
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\bin\Lesson_45_ChallengeSimpleDarts.dll.config
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\bin\Lesson_45_ChallengeSimpleDarts.dll
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\bin\Lesson_45_ChallengeSimpleDarts.pdb
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\obj\Debug\Lesson_45_ChallengeSimpleDarts.dll
+c:\users\kgaughan\Desktop\Csharp.NET\repo\Lesson_45_ChallengeSimpleDarts\Lesson_45_ChallengeSimpleDarts\obj\Debug\Lesson_45_ChallengeSimpleDarts.pdb

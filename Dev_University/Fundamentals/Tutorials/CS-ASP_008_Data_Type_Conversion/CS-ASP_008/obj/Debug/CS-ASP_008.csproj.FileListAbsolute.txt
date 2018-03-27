@@ -1,0 +1,9 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\bin\CS-ASP_008.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\bin\CS-ASP_008.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\bin\CS-ASP_008.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_008\CS-ASP_008\obj\Debug\CS-ASP_008.pdb

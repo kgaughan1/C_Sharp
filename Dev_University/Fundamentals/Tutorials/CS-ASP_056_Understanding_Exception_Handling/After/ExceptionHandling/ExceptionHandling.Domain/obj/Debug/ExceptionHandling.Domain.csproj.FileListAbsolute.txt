@@ -1,0 +1,11 @@
+c:\users\bob_000\documents\visual studio 2013\Projects\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\ExceptionHandling.Domain.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\ExceptionHandling.Domain.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.pdb
+C:\Users\bob_000\documents\visual studio 2013\Projects\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_056\After\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\ExceptionHandling.Domain.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_056\After\ExceptionHandling\ExceptionHandling.Domain\bin\Debug\ExceptionHandling.Domain.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_056\After\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_056\After\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_056\After\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_056\After\ExceptionHandling\ExceptionHandling.Domain\obj\Debug\ExceptionHandling.Domain.pdb

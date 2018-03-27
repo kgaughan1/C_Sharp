@@ -1,0 +1,9 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\bin\Lesson35_ReverseString.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\bin\Lesson35_ReverseString.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\bin\Lesson35_ReverseString.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\obj\Debug\Lesson35_ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\obj\Debug\Lesson35_ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\obj\Debug\Lesson35_ReverseString.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Lesson35_ReverseString\Lesson35_ReverseString\obj\Debug\Lesson35_ReverseString.pdb

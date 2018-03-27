@@ -1,0 +1,9 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\bin\CS_ASP_019_Challenge.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\bin\CS_ASP_019_Challenge.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\bin\CS_ASP_019_Challenge.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\obj\Debug\CS_ASP_019_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\obj\Debug\CS_ASP_019_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\obj\Debug\CS_ASP_019_Challenge.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_019-Challenge\CS_ASP_019_Challenge\CS_ASP_019_Challenge\obj\Debug\CS_ASP_019_Challenge.pdb

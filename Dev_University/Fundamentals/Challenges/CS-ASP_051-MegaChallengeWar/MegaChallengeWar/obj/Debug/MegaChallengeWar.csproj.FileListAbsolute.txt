@@ -1,0 +1,17 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_051-MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb

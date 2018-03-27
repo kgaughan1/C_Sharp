@@ -1,0 +1,2 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_041\CS-ASP_041\obj\Debug\CS-ASP_041.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_041\CS-ASP_041\obj\Debug\CS-ASP_041.csproj.CoreCompileInputs.cache

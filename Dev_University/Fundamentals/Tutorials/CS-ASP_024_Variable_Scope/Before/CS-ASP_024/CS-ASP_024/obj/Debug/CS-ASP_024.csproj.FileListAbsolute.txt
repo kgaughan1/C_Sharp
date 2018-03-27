@@ -1,0 +1,7 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\bin\CS-ASP_024.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\bin\CS-ASP_024.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\bin\CS-ASP_024.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\obj\Debug\CS-ASP_024.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\obj\Debug\CS-ASP_024.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\obj\Debug\CS-ASP_024.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_024\Before\CS-ASP_024\CS-ASP_024\obj\Debug\CS-ASP_024.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaChallengeWar", "MegaChallengeWar\MegaChallengeWar.csproj", "{A85B9FB8-7800-43B6-A181-0C12A3CBD12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85B9FB8-7800-43B6-A181-0C12A3CBD12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85B9FB8-7800-43B6-A181-0C12A3CBD12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85B9FB8-7800-43B6-A181-0C12A3CBD12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85B9FB8-7800-43B6-A181-0C12A3CBD12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FF0C68-665B-4F2D-B917-42A68AAF618E}
+	EndGlobalSection
+EndGlobal

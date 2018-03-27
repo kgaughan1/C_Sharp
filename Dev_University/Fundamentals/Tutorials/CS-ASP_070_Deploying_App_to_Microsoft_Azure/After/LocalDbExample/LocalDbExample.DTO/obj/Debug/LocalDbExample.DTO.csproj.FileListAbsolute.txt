@@ -1,0 +1,9 @@
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\bin\Debug\LocalDbExample.DTO.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\bin\Debug\LocalDbExample.DTO.pdb
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\After\LocalDbExample\LocalDbExample.DTO\bin\Debug\LocalDbExample.DTO.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\After\LocalDbExample\LocalDbExample.DTO\bin\Debug\LocalDbExample.DTO.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\After\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\After\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\After\LocalDbExample\LocalDbExample.DTO\obj\Debug\LocalDbExample.DTO.pdb

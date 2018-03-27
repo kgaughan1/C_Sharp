@@ -1,0 +1,13 @@
+C:\Users\bob_000\Documents\Visual Studio 2013\Projects\BootstrapExample\BootstrapExample\bin\BootstrapExample.dll.config
+C:\Users\bob_000\Documents\Visual Studio 2013\Projects\BootstrapExample\BootstrapExample\bin\BootstrapExample.dll
+C:\Users\bob_000\Documents\Visual Studio 2013\Projects\BootstrapExample\BootstrapExample\bin\BootstrapExample.pdb
+C:\Users\bob_000\Documents\Visual Studio 2013\Projects\BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.csprojResolveAssemblyReference.cache
+C:\Users\bob_000\Documents\Visual Studio 2013\Projects\BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.dll
+C:\Users\bob_000\Documents\Visual Studio 2013\Projects\BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\bin\BootstrapExample.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\bin\BootstrapExample.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\bin\BootstrapExample.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_068_BootstrapExample\BootstrapExample\obj\Debug\BootstrapExample.pdb

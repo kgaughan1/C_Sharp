@@ -1,0 +1,6 @@
+c:\users\bob_000\documents\visual studio 2013\Projects\CS-ASP_053\CS-ASP_053\bin\CS-ASP_053.dll.config
+c:\users\bob_000\documents\visual studio 2013\Projects\CS-ASP_053\CS-ASP_053\bin\CS-ASP_053.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\CS-ASP_053\CS-ASP_053\bin\CS-ASP_053.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\CS-ASP_053\CS-ASP_053\obj\Debug\CS-ASP_053.csprojResolveAssemblyReference.cache
+c:\users\bob_000\documents\visual studio 2013\Projects\CS-ASP_053\CS-ASP_053\obj\Debug\CS-ASP_053.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\CS-ASP_053\CS-ASP_053\obj\Debug\CS-ASP_053.pdb

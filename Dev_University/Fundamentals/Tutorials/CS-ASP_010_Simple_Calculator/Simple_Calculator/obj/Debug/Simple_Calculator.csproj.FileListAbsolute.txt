@@ -1,0 +1,9 @@
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\bin\Simple_Calculator.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\bin\Simple_Calculator.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\bin\Simple_Calculator.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb

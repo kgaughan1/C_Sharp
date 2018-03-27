@@ -1,0 +1,9 @@
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\bin\16_ChallengeDaysBetweenDates.dll.config
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\bin\16_ChallengeDaysBetweenDates.dll
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\bin\16_ChallengeDaysBetweenDates.pdb
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\obj\Debug\16_ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\obj\Debug\16_ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\obj\Debug\16_ChallengeDaysBetweenDates.dll
+c:\users\kgaughan\Desktop\Csharp.NET\repo\16_ChallengeDaysBetweenDates\16_ChallengeDaysBetweenDates\obj\Debug\16_ChallengeDaysBetweenDates.pdb

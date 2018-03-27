@@ -1,0 +1,13 @@
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.dll.config
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.dll
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.pdb
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.csprojResolveAssemblyReference.cache
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.dll
+C:\Users\Bob Tabor\documents\visual studio 2013\Projects\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.dll.config
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\bin\CS-ASP_017.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_017\Before\CS-ASP_017\CS-ASP_017\obj\Debug\CS-ASP_017.pdb

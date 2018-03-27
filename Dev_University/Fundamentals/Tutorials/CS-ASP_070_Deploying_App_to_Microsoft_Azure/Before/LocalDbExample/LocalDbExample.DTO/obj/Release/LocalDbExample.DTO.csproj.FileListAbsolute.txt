@@ -1,0 +1,11 @@
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\bin\Release\LocalDbExample.DTO.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\bin\Release\LocalDbExample.DTO.pdb
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.csprojResolveAssemblyReference.cache
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\Before\LocalDbExample\LocalDbExample.DTO\bin\Release\LocalDbExample.DTO.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\Before\LocalDbExample\LocalDbExample.DTO\bin\Release\LocalDbExample.DTO.pdb
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\Before\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.csprojResolveAssemblyReference.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\Before\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.csproj.CoreCompileInputs.cache
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\Before\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.dll
+C:\Users\kgaughan\Desktop\Csharp.NET\repo\CS-ASP_070\Before\LocalDbExample\LocalDbExample.DTO\obj\Release\LocalDbExample.DTO.pdb

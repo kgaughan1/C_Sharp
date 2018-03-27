@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMVCGetjQueryfromNuGet", "TestMVCGetjQueryfromNuGet\TestMVCGetjQueryfromNuGet.csproj", "{30B12054-8BCF-425B-B284-B711F1AA26E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B12054-8BCF-425B-B284-B711F1AA26E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B12054-8BCF-425B-B284-B711F1AA26E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B12054-8BCF-425B-B284-B711F1AA26E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B12054-8BCF-425B-B284-B711F1AA26E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E9465B-A23A-4DF2-A2D0-DDA17AA78D10}
+	EndGlobalSection
+EndGlobal
