@@ -1,6 +1,0 @@
-c:\users\kgaughan\Desktop\Csharp.NET\repo\BobsPizza\BobsPizza.DTO\bin\Debug\BobsPizza.DTO.dll
-c:\users\kgaughan\Desktop\Csharp.NET\repo\BobsPizza\BobsPizza.DTO\bin\Debug\BobsPizza.DTO.pdb
-c:\users\kgaughan\Desktop\Csharp.NET\repo\BobsPizza\BobsPizza.DTO\obj\Debug\BobsPizza.DTO.csproj.CoreCompileInputs.cache
-c:\users\kgaughan\Desktop\Csharp.NET\repo\BobsPizza\BobsPizza.DTO\obj\Debug\BobsPizza.DTO.dll
-c:\users\kgaughan\Desktop\Csharp.NET\repo\BobsPizza\BobsPizza.DTO\obj\Debug\BobsPizza.DTO.pdb
-C:\Users\kgaughan\Desktop\Csharp.NET\repo\BobsPizza\BobsPizza.DTO\obj\Debug\BobsPizza.DTO.csprojResolveAssemblyReference.cache
